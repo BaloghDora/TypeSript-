@@ -25,6 +25,11 @@ p {
 
 a {
   color: black;
+  text-decoration: none;
+}
+a:hover
+{
+  color: #087ac8;
 }
 
 #picture {
